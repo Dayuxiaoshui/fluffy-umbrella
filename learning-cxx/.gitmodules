@@ -1,0 +1,14 @@
+[submodule "exams"]
+<<<<<<< HEAD
+	path = exams
+	url =https://github.com/Dayuxiaoshui/fluffy-umbrella
+[submodule "learning-cxx"]
+    path = learning-cxx
+    url = https://github.com/Dayuxiaoshui/learning-cxx
+=======
+  path = exams
+  url = https://github.com/Dayuxiaoshui/fluffy-umbrella
+[submodule "learning-cxx"]
+  path = learning-cxx
+  url = https://github.com/Dayuxiaoshui/learning-cxx
+>>>>>>> 0a284eff558aefbf237f97e91b119668abc88443
